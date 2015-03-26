@@ -1,6 +1,6 @@
-#How to configure this switch locale selector base on the excellent pagkage : tap:i18n
+How to configure this switch locale selector base on the excellent pagkage : tap:i18n
 
-# Overview
+Overview
 + create a folder called tap-i18n under the root of your project
 + add a project-tap.i18n file to this folder and enter following json configuration text to it:
 ```javascript
