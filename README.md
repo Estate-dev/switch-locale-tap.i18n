@@ -14,13 +14,13 @@ Overview
 + add your language files and add some json contents
   - en.i18n.json
   - fr.i18n.json
-    ```json
+  ```json
     {
       "hello": "Bonjour %s, your last visit was on: %s"
     }
-    ```
-+ reference your language blocks in your templates
+  ```
++ Reference your language blocks in your templates
   ```html
    <p>{{_ "hello" "Daniel" "2014-05-22"}} {{counter}} clicks so far.</p>
    ```
-(Credits  and thanks to https://github.com/meteorpoly)
+Thanks to https://github.com/meteorpoly
