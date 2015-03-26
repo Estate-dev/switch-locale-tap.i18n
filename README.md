@@ -7,7 +7,7 @@ Overview
 {
   "supported_languages": ["fr"], // please note that for english text you can ommit the "en" since it is loaded by default
   "cdn_path": "/tap-i18n"
-  // Please see the TAP-i18n documentation for more options and setting in this file >>>> https://github.com/TAPevents/tap-i18n
+// Please see the TAP-i18n documentation for more options and settings :https://github.com/TAPevents/tap-i18n
 }
 ```
 + add your language files and add some json contents
